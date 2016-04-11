@@ -7,7 +7,7 @@ The Raw data is obtained from [https://d396qusza40orc.cloudfront.net/getdata%2Fp
 The Details of Raw Data can be obtained from [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 
-### **Tidy Data ** Requirement
+### **Tidy Data** Requirement
 Tidy data needs to be prepared from the HAPT Data Set (source) by including only the measures having mean or standard deviation on them.<br>
 And an additional data set needs to be prepared with the average of each variable for each activity and each subject.<br>
 
