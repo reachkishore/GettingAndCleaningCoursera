@@ -6,7 +6,7 @@ The Raw data is obtained from [https://d396qusza40orc.cloudfront.net/getdata%2Fp
 ### **Description** of Raw Data
 The Details of Raw Data can be obtained from [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
-### **R Version and OS details **
+### **R Version and OS details**
 platform:       x86_64-w64-mingw32          
 arch:           x86_64                      
 os:             mingw32                     
